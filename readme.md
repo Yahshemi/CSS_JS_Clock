@@ -15,8 +15,6 @@
 
 _{This clock is one of 30 Javascript projects in the JS 30 program.}_
 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here.-->
-
 
 ## Setup/Installation Requirements
 
