@@ -1,0 +1,22 @@
+{
+  "name": "02---js-and-css-clock",
+  "version": "1.0.0",
+  "description": "A simple clock made with CSS and Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahshemi/CSS_JS_Clock.git"
+  },
+  "author": "Yahshemi <yahshemi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yahshemi/CSS_JS_Clock/issues"
+  },
+  "homepage": "https://github.com/Yahshemi/CSS_JS_Clock#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
