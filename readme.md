@@ -19,5 +19,5 @@
 
 
 Give credit here.
-- This project was based on [a tutorial](https://javascript30.com/).
+- This project was based on a [tutorial from JS30](https://javascript30.com/).
 
