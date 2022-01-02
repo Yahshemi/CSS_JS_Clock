@@ -1,6 +1,6 @@
 # CSS JS Clock
 > A simple clock made with CSS and Javascript.
-> Live demo [_here_](https://git.heroku.com/yw-css-js-clock.git).
+> Live demo [_here_](https://yw-css-js-clock.herokuapp.com/).
 
 
 
